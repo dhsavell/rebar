@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rebar.Api", "Rebar.Api\Rebar.Api.csproj", "{9EECCCDF-390E-454D-BF5A-A94A0B0F23BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rebar.Impl.Windows", "Rebar.Impl.Windows\Rebar.Impl.Windows.csproj", "{4C7F7DB7-138D-41CD-BBD4-4EFFDE037F0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EECCCDF-390E-454D-BF5A-A94A0B0F23BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EECCCDF-390E-454D-BF5A-A94A0B0F23BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EECCCDF-390E-454D-BF5A-A94A0B0F23BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EECCCDF-390E-454D-BF5A-A94A0B0F23BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C7F7DB7-138D-41CD-BBD4-4EFFDE037F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C7F7DB7-138D-41CD-BBD4-4EFFDE037F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C7F7DB7-138D-41CD-BBD4-4EFFDE037F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7F7DB7-138D-41CD-BBD4-4EFFDE037F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
